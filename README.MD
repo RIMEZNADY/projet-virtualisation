@@ -39,6 +39,7 @@ Face à l'évolution des besoins en télétravail et en sécurité informatique,
              +-------+-------+         +-------+-------+
              | Connexion RDP |         | Connexion VNC |
              +---------------+         +---------------+
+```
 
 ### Connexions distantes configurées côté serveur
 
