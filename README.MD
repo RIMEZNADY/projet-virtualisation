@@ -23,7 +23,7 @@ Face à l'évolution des besoins en télétravail et en sécurité informatique,
 
 ##  Architecture technique
 
-```plaintext
+
 +-----------------+         +-------------+
 |  Client Web     | <--->   |  Guacamole  |
 |  (navigateur)   |         | Web App     |
