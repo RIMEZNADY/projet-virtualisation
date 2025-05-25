@@ -44,7 +44,7 @@ Face à l'évolution des besoins en télétravail et en sécurité informatique,
 ---
 
 
-## Connexions distantes configurées côté serveur
+### Connexions distantes configurées côté serveur
 
 Les connexions vers les postes de travail (Windows via RDP et Linux via VNC) ont été directement **ajoutées à la base de données MySQL** à l'aide de requêtes SQL et non via l'interface graphique.
 
@@ -55,7 +55,7 @@ Ces connexions permettent un accès sécurisé, avec :
 
 ---
 
-## Aperçu visuel
+### Aperçu visuel
 
 Les captures d’écran illustrant chaque étape sont disponibles dans le dossier `screenshots/`, extraites automatiquement du rapport.
 [Télécharger le fichier ZIP](projet-virtualisation/guacamole-docker.zip)
@@ -63,7 +63,7 @@ Les captures d’écran illustrant chaque étape sont disponibles dans le dossie
 
 ---
 
-## Sécurité & supervision
+### Sécurité & supervision
 
 - Modification des identifiants par défaut
 - Ajout d’utilisateurs avec droits restreints
@@ -73,14 +73,14 @@ Les captures d’écran illustrant chaque étape sont disponibles dans le dossie
 
 ---
 
-## 📚 Références
+### Références
 
 - [Documentation officielle Apache Guacamole](https://guacamole.apache.org/)
 - [Docker Hub - Guacamole](https://hub.docker.com/u/guacamole)
 
 ---
 
-## ✍️ Réalisé par
+##  Réalisé par
 
 Projet réalisé dans le cadre du module de virtualisation à l’**EMSI Marrakech**, sous la supervision de **Pr. Abdeljalil NADIRI**.
 """
