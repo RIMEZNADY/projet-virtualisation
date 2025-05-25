@@ -82,8 +82,3 @@ Les captures d’écran illustrant chaque étape sont disponibles dans le dossie
 Projet réalisé dans le cadre du module de virtualisation à l’**EMSI Marrakech**, sous la supervision de **Pr. Abdeljalil NADIRI**.
 """
 
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
