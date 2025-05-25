@@ -21,7 +21,7 @@ Face à l'évolution des besoins en télétravail et en sécurité informatique,
 
 ---
 
-## 🏗 Architecture technique
+##  Architecture technique
 
 ```plaintext
 +-----------------+         +-------------+
@@ -43,6 +43,7 @@ Face à l'évolution des besoins en télétravail et en sécurité informatique,
 
 ---
 
+
 ## Connexions distantes configurées côté serveur
 
 Les connexions vers les postes de travail (Windows via RDP et Linux via VNC) ont été directement **ajoutées à la base de données MySQL** à l'aide de requêtes SQL et non via l'interface graphique.
@@ -57,9 +58,12 @@ Ces connexions permettent un accès sécurisé, avec :
 ## Aperçu visuel
 
 Les captures d’écran illustrant chaque étape sont disponibles dans le dossier `screenshots/`, extraites automatiquement du rapport.
+[Télécharger le fichier ZIP](projet-virtualisation/guacamole-docker.zip)
+
+
 ---
 
-## 🔐 Sécurité & supervision
+## Sécurité & supervision
 
 - Modification des identifiants par défaut
 - Ajout d’utilisateurs avec droits restreints
