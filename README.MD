@@ -55,7 +55,7 @@ Ces connexions permettent un accès sécurisé, avec :
 ### Aperçu visuel
 
 Les captures d’écran illustrant chaque étape sont disponibles dans le dossier guacamole-screenshots.zip
-[Télécharger le fichier ZIP](projet-virtualisation/guacamole-screenshots.zip)
+[Télécharger le fichier ZIP](projet-virtualisation/screenshots./guacamole-screenshots.zip)
 
 
 ---
