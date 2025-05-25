@@ -40,10 +40,6 @@ Face à l'évolution des besoins en télétravail et en sécurité informatique,
              | Connexion RDP |         | Connexion VNC |
              +---------------+         +---------------+
 
-```plaintext
----
-
-
 ### Connexions distantes configurées côté serveur
 
 Les connexions vers les postes de travail (Windows via RDP et Linux via VNC) ont été directement **ajoutées à la base de données MySQL** à l'aide de requêtes SQL et non via l'interface graphique.
