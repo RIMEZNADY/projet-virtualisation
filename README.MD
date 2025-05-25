@@ -80,5 +80,11 @@ Les captures d’écran illustrant chaque étape sont disponibles dans le dossie
 ##  Réalisé par
 
 Projet réalisé dans le cadre du module de virtualisation à l’**EMSI Marrakech**, sous la supervision de **Pr. Abdeljalil NADIRI**.
+Par :
+ZNADY Rime 
+BOUHRIZ Zineb
+ED-DIRA Imane
+CHAKRA Hossam
+MICHICH Ilyass
 """
 
