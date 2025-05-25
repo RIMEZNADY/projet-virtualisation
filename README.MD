@@ -54,8 +54,8 @@ Ces connexions permettent un accès sécurisé, avec :
 
 ### Aperçu visuel
 
-Les captures d’écran illustrant chaque étape sont disponibles dans le dossier `screenshots/`, extraites automatiquement du rapport.
-[Télécharger le fichier ZIP](projet-virtualisation/guacamole-docker.zip)
+Les captures d’écran illustrant chaque étape sont disponibles dans le dossier guacamole-screenshots.zip
+[Télécharger le fichier ZIP](projet-virtualisation/guacamole-screenshots.zip)
 
 
 ---
